@@ -1,0 +1,46 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+/* header section style  */
+header{
+    background-color: #FFF9F4;
+}
+/* menu  */
+nav ul li{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    margin-right: 57px;
+}
+/* banner */
+.banner-info{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+    
+}
+.banner-paragraph{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #3E3E3E;
+}
+.banner-button{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    padding: 18px 34px;
+    font-family: Roboto;
+
+}
+/* casual-shoe */
+
+.card-price{
+    color: #FA804C;
+}
